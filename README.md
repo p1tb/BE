@@ -20,6 +20,9 @@ https://java-final-project.herokuapp.com/api/book
 _Frontend:_
 https://java-final-project-front.herokuapp.com/
 
+_Trello:_
+https://trello.com/b/eYIeCmaR/final-project
+
 
 ### Documentation
 
