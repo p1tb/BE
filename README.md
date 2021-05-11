@@ -12,4 +12,13 @@ The back:
 
 ![back end](https://i.imgur.com/R3KU9T2.png)
 
-Links are in the 'About' section ->
+__Links__:
+
+_Backend:_
+https://java-final-project.herokuapp.com/api/book
+
+_Frontend:_
+https://java-final-project-front.herokuapp.com/
+
+_Swagger:_
+https://java-final-project.herokuapp.com/swagger-ui.html#/
